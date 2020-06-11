@@ -2,4 +2,6 @@
    attr_accessor :name
  end
 
-class Cat
+class Cat 
+  def meow 
+    
